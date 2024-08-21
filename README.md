@@ -4,7 +4,8 @@ I'm a Mobile QA Engineer
 
 ## Languages and Tools
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=java&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-FFFFFF.svg?style=for-the-badge&logo=intellij-idea&logoColor=black) 
 
 ## Follow me
 
